@@ -8,11 +8,11 @@
 }
 
 #second-element {
-    color: blue;
+    color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
 #fourth-element {
-    background-color: #99ff99;
+    background-color: hsl(120, 100%, 80%);
     font-weight: 700;
 }
