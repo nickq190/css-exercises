@@ -1,13 +1,14 @@
-.click-color {
+.click {
     background-color: hsl(0, 0%, 0%);
     color: rgb(255, 255, 255);
 }
 
-.no-click-color {
+.no-click {
     background-color: yellow;
 }
 
-.button-font {
+.click,
+.no-click {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
