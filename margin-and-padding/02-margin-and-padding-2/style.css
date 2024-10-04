@@ -11,6 +11,12 @@ body {
   padding: 8px;
 }
 
+.title,
+.content,
+.button-container {
+  margin: 8px auto;
+}
+
 .title {
   background: #e3f4ff;
 }
