@@ -20,14 +20,13 @@ body {
 .content {
   background: #e3f4ff;
   padding: 16px 8px;
-  margin: 8px auto;
+  margin-bottom: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
   text-align: center;
   padding: 8px;
-  margin-top: 8px;
 }
 
 button {
@@ -35,5 +34,5 @@ button {
   border: 1px solid #eee;
   display: block;
   padding: 8px 24px;
-  margin: auto auto;
+  margin: 0 auto;
 }
